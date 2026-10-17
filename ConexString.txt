@@ -1,9 +1,4 @@
-mongosh "mongodb+srv://cluster0.1clyt7o.mongodb.net/" --apiVersion 1 --username usr_db_comics
-mongodb+srv://usr_db_comics:4ff6gB1qPCrLKbET@cluster0.1clyt7o.mongodb.net/
+Aqui textos de prueba
 
-nombre usr_db_comics
-
-contraseña 4ff6gB1qPCrLKbET
- 
 
 
